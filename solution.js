@@ -1,5 +1,5 @@
  const isDog = true;
- console.log(isDog == true ? 'pat, pat' : 'find me a dog to pat!');
+ console.log(isDog == true ? 'Pat, pat, good dog' : 'find me a dog to pat!');
 console.log('----------------------------------------');
 
  const speedLimit = 40;
